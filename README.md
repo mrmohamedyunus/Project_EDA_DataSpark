@@ -1,1 +1,1 @@
-# Project_EDA_DataSpark
+DataSpark: Illuminating Insights for Global Electronics
