@@ -1,4 +1,3 @@
-Sure, here's the document with additional bold formatting for the headings, even though GitHub Markdown automatically bolds headings:
 
 ---
 
