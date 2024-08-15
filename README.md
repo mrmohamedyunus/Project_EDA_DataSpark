@@ -65,4 +65,7 @@ In today's rapidly evolving market, success requires more than just raw data—i
 ## **Conclusion**
 The **DataSpark** project exemplifies the transformative power of data when combined with advanced analytics and visualization techniques. By converting data into actionable insights, we provide a roadmap for Global Electronics to excel in a competitive landscape. The methodologies and insights derived from this project have the potential to revolutionize various aspects of the business, setting a new standard for data-driven decision-making in the retail electronics industry.
 
+## **Contact**
+For any questions or suggestions, feel free to reach out at [mryunus.in@gmail.com].
+
 ---
